@@ -4,6 +4,10 @@ It's new line 1
 
 It's new line 2
 
+<<<<<<< HEAD
 Add new line
 
 Add new 2nd line
+=======
+Add new line
+>>>>>>> parent of ad901ef... New Commit
