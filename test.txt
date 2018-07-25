@@ -3,3 +3,5 @@ Hello Git 123
 It's new line 1
 
 It's new line 2
+
+Add new line
