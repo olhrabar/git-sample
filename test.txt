@@ -10,4 +10,4 @@ Add new 2nd line  12345
 
 add line for rebase - 1
 
-DEV -1
+1. DEV -1
